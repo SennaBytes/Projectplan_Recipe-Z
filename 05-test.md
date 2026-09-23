@@ -13,4 +13,7 @@
 * [Bijv: We maken de actieknop 15% groter.]
 
 ![Empathy map](./assets/img/doggo-eating.jpg)
-(./assets/img/totally-spies.jpg)
+I accept crumbs
+
+![Empathy map](./assets/img/totally-spies.jpg)
+Girrlllll
