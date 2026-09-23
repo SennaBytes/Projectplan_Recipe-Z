@@ -15,5 +15,5 @@
 ![Empathy map](./assets/img/doggo-eating.jpg)
 I accept crumbs
 
-![Empathy map](./assets/img/totally-spies.jpg)
+![Empathy map](./assets/img/totally-spies.gif)
 Girrlllll
