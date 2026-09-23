@@ -17,6 +17,8 @@
 </tr>
 </table>
 
+<hr>
+
 ## 3. Iteratie
 *Wat gaan we in de code/design aanpassen n.a.v. de feedback?*
 * [Bijv: We maken de actieknop 15% groter.]
