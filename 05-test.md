@@ -16,4 +16,4 @@
 I accept crumbs
 
 ![Empathy map](./assets/img/totally-spies.gif)
-Girrlllll
+<strong>Girrlllll</strong>
