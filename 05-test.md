@@ -12,8 +12,13 @@
 *Wat gaan we in de code/design aanpassen n.a.v. de feedback?*
 * [Bijv: We maken de actieknop 15% groter.]
 
+<hr>
+
+
 ![Empathy map](./assets/img/doggo-eating.jpg)
 I accept crumbs
+
+<hr>
 
 ![Empathy map](./assets/img/totally-spies.gif)
 <strong>Girrlllll</strong>
