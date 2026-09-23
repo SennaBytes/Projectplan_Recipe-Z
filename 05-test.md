@@ -16,9 +16,10 @@
 
 
 ![Empathy map](./assets/img/doggo-eating.jpg)
-I accept crumbs
+<h1>I accept crumbs</h1>
 
 <hr>
 
 ![Empathy map](./assets/img/totally-spies.gif)
+<br>
 <strong>Girrlllll</strong>
