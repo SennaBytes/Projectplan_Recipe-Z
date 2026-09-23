@@ -8,6 +8,15 @@
 | Persoon A | Ja | Vond de knop wat klein. |
 | Persoon B | Nee | Begreep de navigatie niet direct. |
 
+<table>
+<tr>
+    <td>TEST TABLE</td>
+</tr>
+<tr>
+    <td>IN CODE</td>
+</tr>
+</table>
+
 ## 3. Iteratie
 *Wat gaan we in de code/design aanpassen n.a.v. de feedback?*
 * [Bijv: We maken de actieknop 15% groter.]
